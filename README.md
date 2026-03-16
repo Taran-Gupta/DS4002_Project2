@@ -56,10 +56,10 @@ TO DO (also update tree, etc.)
 
 
 ## References 
-[1] “Wealth inequality in America just hit its widest gap in more than 3 decades,” CBS News, https://www.cbsnews.com/news/us-wealth-gap-widest-in-three-decades-federal-reserve/ (accessed Feb. 25, 2026). 
-[2] C. Rugaber, “Here’s why everyone’s talking about a ‘K-shaped’ economy,” AP News, https://apnews.com/article/kshaped-economy-spending-income-inequality-dfa59144ecb2e1b674242666e28ff556 (accessed Feb. 25, 2026).
-[3]  “Pearsonr,” SciPy v1.17.0 Manual, https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.pearsonr.html (accessed Feb. 25, 2026).
-[4] GeeksforGeeks, “How to calculate rolling correlation in python?,” GeeksforGeeks, https://www.geeksforgeeks.org/python/how-to-calculate-rolling-correlation-in-python/ (accessed Feb. 25, 2026).
-[5] A. Hayes, “Master Arima: Your guide to time series forecasting,” Investopedia, https://www.investopedia.com/terms/a/autoregressive-integrated-moving-average-arima.asp (accessed Feb. 25, 2026).
-[6] “Unemployment rate - 20 yrs. & over,” FRED, https://fred.stlouisfed.org/series/LNS14000024 (accessed Mar. 16, 2026).
-[7] “Release Tables: Levels of Wealth by Wealth Percentile Groups,” FRED, https://fred.stlouisfed.org/release/tables?eid=813668&rid=453 (accessed Mar. 16, 2026). 
+[1] “Wealth inequality in America just hit its widest gap in more than 3 decades,” CBS News, https://www.cbsnews.com/news/us-wealth-gap-widest-in-three-decades-federal-reserve/ (accessed Feb. 25, 2026).   
+[2] C. Rugaber, “Here’s why everyone’s talking about a ‘K-shaped’ economy,” AP News, https://apnews.com/article/kshaped-economy-spending-income-inequality-dfa59144ecb2e1b674242666e28ff556 (accessed Feb. 25, 2026).  
+[3]  “Pearsonr,” SciPy v1.17.0 Manual, https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.pearsonr.html (accessed Feb. 25, 2026).  
+[4] GeeksforGeeks, “How to calculate rolling correlation in python?,” GeeksforGeeks, https://www.geeksforgeeks.org/python/how-to-calculate-rolling-correlation-in-python/ (accessed Feb. 25, 2026).  
+[5] A. Hayes, “Master Arima: Your guide to time series forecasting,” Investopedia, https://www.investopedia.com/terms/a/autoregressive-integrated-moving-average-arima.asp (accessed Feb. 25, 2026).  
+[6] “Unemployment rate - 20 yrs. & over,” FRED, https://fred.stlouisfed.org/series/LNS14000024 (accessed Mar. 16, 2026).  
+[7] “Release Tables: Levels of Wealth by Wealth Percentile Groups,” FRED, https://fred.stlouisfed.org/release/tables?eid=813668&rid=453 (accessed Mar. 16, 2026).   
